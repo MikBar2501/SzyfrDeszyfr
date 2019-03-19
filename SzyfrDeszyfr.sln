@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzyfrDeszyfr", "SzyfrDeszyfr\SzyfrDeszyfr.csproj", "{160BEEF6-EA6B-41AC-BB7E-F17E46DE331F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160BEEF6-EA6B-41AC-BB7E-F17E46DE331F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160BEEF6-EA6B-41AC-BB7E-F17E46DE331F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160BEEF6-EA6B-41AC-BB7E-F17E46DE331F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160BEEF6-EA6B-41AC-BB7E-F17E46DE331F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88EEC11-082F-4E3B-850A-0DE6D56F600C}
+	EndGlobalSection
+EndGlobal
